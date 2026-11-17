@@ -1,0 +1,10 @@
+TANDA DOLOREÑA - estructura inicial
+
+1. flutter create tanda_dolorena
+2. Copia ENCIMA las carpetas lib/ y test/ de este zip (reemplaza).
+3. Borra test/widget_test.dart
+4. NO toques pubspec.yaml (este proyecto no necesita paquetes extra).
+
+Faltan a propósito (se crean durante las rondas):
+  lib/logica/servicio_tanda.dart   -> Ronda 1 en adelante
+  lib/presentation/tanda_screen.dart y el main.dart nuevo -> al final
